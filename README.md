@@ -10,3 +10,7 @@ Hashi is a barebones boilerplate using [Jekyll](http://jekyllrb.com/) as static 
 ## Install
 
 To install run `sh install.sh`
+
+## Run
+
+To run use `jekyll serve`
